@@ -10,7 +10,7 @@ It is intended to apply the knowledge obtained in courses and tutorials on the i
 
 ## How to use?
 
-### `npx `
+### `npm install `
 
 Runs to install all required dependencies.
 
