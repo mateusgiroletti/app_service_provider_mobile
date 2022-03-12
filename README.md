@@ -38,7 +38,6 @@ This is the profile screen, here you can change your name, email, password or ex
 
 ## How to use?
 
-<<<<<<< HEAD
 Clone this project on your favorite dir:
 
 ```console
@@ -46,12 +45,9 @@ git clone https://github.com/mateusgiroletti/app_service_provider_mobile.git
 ```
 
 Change to the root directory and install the necessary packages:
-=======
-### `npm install `
->>>>>>> 4d0578953c5bd541ce6ffc254f9446c234d46265
 
 ```console
-cd app-service-provider-web/ && npm install
+cd app_serive_provider_mobile/ && npm install
 ```
 
 To run on android.
